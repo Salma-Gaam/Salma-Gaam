@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Salma Gaâmoussi
 #### Data Analysis and Science
-I am currently a fourth-year student at the National School of Applied Sciences Morocco (Al Hoceima), specializing in Data Engineering.
-As a curious data enthusiast, I find great joy in exploring the realms of Data Analysis and data science. I am fascinated by the power of data to tell stories, uncover insights, and drive informed decision-making. With a solid foundation in the field and a continuous thirst for knowledge, I am dedicated to expanding my skills and expertise in data analysis techniques, statistical modeling, and machine learning algorithms. Through practical projects and ongoing learning, I aim to leverage the potential of data to make meaningful contributions and solve real-world problems.
+I am currently a fourth-year student at the National School of Applied Sciences Morocco (Al Hoceima), specializing in Data Engineering.  
+As a curious data enthusiast, I find great joy in exploring the realms of Data Analysis and data science. I am fascinated by the power of data to tell stories, uncover insights, and drive informed decision-making. With a solid foundation in the field and a continuous thirst for knowledge, I am dedicated to expanding my skills and expertise in data analysis techniques, statistical modeling, and machine learning algorithms. Through practical projects and ongoing learning, I aim to leverage the potential of data to make meaningful contributions and solve real-world problems.  
 
 
 <h4 align="left">Connect with me:</h4>
