@@ -4,9 +4,8 @@
 I am currently a fourth-year student at the National School of Applied Sciences Morocco (Al Hoceima), specializing in Data Engineering.
 As a curious data enthusiast, I find great joy in exploring the realms of Data Analysis and data science. I am fascinated by the power of data to tell stories, uncover insights, and drive informed decision-making. With a solid foundation in the field and a continuous thirst for knowledge, I am dedicated to expanding my skills and expertise in data analysis techniques, statistical modeling, and machine learning algorithms. Through practical projects and ongoing learning, I aim to leverage the potential of data to make meaningful contributions and solve real-world problems.
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/salma-gaâmoussi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salma-gaâmoussi" height="30" width="40" /></a>
 <a href="https://kaggle.com/salmagaamoussi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salmagaamoussi" height="30" width="40" /></a>
